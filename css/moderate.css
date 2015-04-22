@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*
+ * Styles for moderation dialog box.
+ * This is separated from common.css so it can be called alone
+ * from affiliate ssf impact pages.
+ * 
+ */
+
+/* dialog container */
+#ModerateOverlay { position: absolute; top: 0px; left: 0px; height: 468px; width: 402px; display: none; }
+#ModerateOverlay #Box { width: 378px; height: 448px; clear: both; background: #f1f1f1 url(../img/moderate_dialog_bg.png) repeat-y; padding: 3px 12px 2px 12px; font-weight: bold; }
+#ModerateOverlay #BoxTop { height: 11px; width: 402px; background: transparent url(../img/moderate_dialog_top.png) no-repeat; }
+#ModerateOverlay #BoxTopIE6 { height: 11px; width: 402px; background:  #f1f1f1 url(../img/moderate_dialog_bg.png) repeat-y; }
+#ModerateOverlay #BoxBottom { height: 11px; width: 402px; background: transparent url(../img/moderate_dialog_bottom.png) no-repeat; }
+#ModerateIframe { border: 0; width: 378px; height: 448px; background: none; *frameBorder: 0; }
+#ModerateOverlay #ModerateClose { position: absolute; display: block; top: 12px; width: 10px; height: 10px; right: 12px; background: url(../img/moderate_dialog_x.gif) no-repeat; }
+
+/* make sure the modal overlay has a color */
+div.jqmOverlay { background-color: #000; }
+
+
