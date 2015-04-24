@@ -1,4 +1,4 @@
-/**
+k/**
  * jQuery center plugin
  * Centers an element in the browser window
  * @version 0.0.2
