@@ -52,7 +52,7 @@
 }
 
 #footer h2 {
-	font-family: prelo-slab, helvetica, arial, sans-serif;
+	font-family: 'Roboto Slab', helvetica, arial, sans-serif;
 	font-weight: bold;
 	font-size: 1.5em;
 	color: #363636;
@@ -334,7 +334,7 @@ h3,
     margin: 0;
     padding: 0;
     line-height: 1em;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     font-weight: bold;
     color: #363636;
 }
@@ -406,7 +406,7 @@ audio { width: 100% }
     padding: 10px 0;
     text-align: center;
     font-size: 22px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 .alert .alert-type {
     text-transform: uppercase;
@@ -458,7 +458,7 @@ audio { width: 100% }
 #shsMastheadScoreboard table.shsTable th { border: none }
 #shsToday #shsMastheadScoreboard .shsMastheadScore {
     font-size: 48px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab','Roboto Slab',;
 }
 #shsMastheadScoreboard table.shsTable table tr td.shsTotD { border-left: 1px solid #9d9d9d }
 #shsToday .shsTable tr:first-child td table tr td:last-child { font-size: 13px }
@@ -519,7 +519,7 @@ audio { width: 100% }
     border-radius: 5px;
     text-align: center;
     font-size: 25px;
-    font-family: 'prelo-slab';
+    font-family: 'Roboto Slab';
     color: white;
     text-decoration: none;
 }
@@ -619,7 +619,7 @@ audio { width: 100% }
 .ellipsis {
     display: inline;
     font-size: 28px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
 }
 ul.meta {
     margin: 5px 0;
@@ -767,7 +767,7 @@ header.tot-head .h2,
 .tot-item h3 {
     font-size: 16px;
     line-height: 1.1em;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
 }
 .tot-row.row2 .tot-item .blogname a { margin-top: 5px }
 .tot-row.row2 .tot-item img {
@@ -949,7 +949,7 @@ header.tot-head .h2,
 .topic-banner a {
     display: block;
     float: right;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     padding-top: 3px;
     color: white;
     text-shadow: 0 2px 2px rgba(0,0,0,0.5);
@@ -1152,7 +1152,7 @@ header.tot-head .h2,
     -ms-border-radius: 4px;
     -o-border-radius: 4px;
     border-radius: 4px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #news-river header#river_header {
     display: none;
@@ -1414,7 +1414,7 @@ header.tot-head .h2,
     font-size: 24px;
     line-height: 26px;
     color: #999;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background-repeat: no-repeat;
 }
 #news-river .ButtonCheer a {
@@ -1428,7 +1428,7 @@ header.tot-head .h2,
     text-align: center;
     font-size: 26px;
     line-height: 26px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background: url(../static/common/img/cheer.png) no-repeat;
     color: #999;
 }
@@ -1447,7 +1447,7 @@ header.tot-head .h2,
     font-size: 21px;
     color: #fff;
     letter-spacing: 0px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     background-position: 0 2px;
     background-repeat: no-repeat;
@@ -1473,7 +1473,7 @@ header.tot-head .h2,
     line-height: 21px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     background: url('/static/common/img/sprites/featured_blue.png') 0 2px no-repeat;
     z-index: 10;
@@ -1629,7 +1629,7 @@ header.tot-head .h2,
     padding: 12px 0 0 0;
     text-align: center;
     font-size: 21px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background-position: -105px 0;
 }
 #news-river .Left {
@@ -1699,7 +1699,7 @@ header.tot-head .h2,
     margin: 0 auto;
     font-size: 22px;
     text-align: center;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     text-decoration: none;
 }
 .river-end a.button {
@@ -1761,7 +1761,7 @@ header.tot-head .h2,
     padding: 8px 10px 6px;
     font-size: 16px;
     text-transform: uppercase;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     background-color: #5091cd;
@@ -1843,13 +1843,13 @@ span.category {
     padding: 18px 0 0 80px;
     font-size: 28px;
     line-height: 1;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background: url('/static/common/img/promo-logo.png') 0 0 no-repeat;
 }
 .RiverTop {
     background: #e9e1d2 url('/static/common/img/shd-small-top.png') 0 0 repeat-x;
     padding: 5px 15px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-size: 24px;
     color: #363636;
 }
@@ -1918,7 +1918,7 @@ span.category {
     padding-left: 10px;
     font-size: 22px;
     border-bottom: 1px solid #333;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #more-in p {
     padding: 0 10px;
@@ -1986,7 +1986,7 @@ span.category {
     padding: 0;
     font-size: 54px;
     line-height: 52px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     color: #363636;
 }
@@ -2005,7 +2005,7 @@ span.category {
 #content .sub .h6 {
     margin: 0;
     padding: 0;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
 }
 #content .sub h3,
@@ -2055,7 +2055,7 @@ span.category {
     float: left;
     margin: 0 0 5px 0;
     text-transform: uppercase;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #fff;
     text-shadow: 1px 1px 3px #333;
 }
@@ -2068,7 +2068,7 @@ span.category {
 #section_title h1 {
     margin: 0;
     font-size: 42px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #363636;
     max-width: 85%;
 }
@@ -2099,7 +2099,7 @@ span.category {
     text-align: center;
     font-size: 16px;
     line-height: 16px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     border-top: 4px solid #363636;
 }
 #series .Links span {
@@ -2158,7 +2158,7 @@ span.category {
     padding: 10px 5px 5px 5px;
     font-size: 16px;
     line-height: 18px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     border-right: 1px solid #333;
     overflow: hidden;
 }
@@ -2182,7 +2182,7 @@ span.category {
     font-size: 30px;
     line-height: 30px;
     text-align: center;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #fff;
     background: url(/static/common/img/sprites/meta-sprite-ext.png) -238px 0 no-repeat;
 }
@@ -2197,7 +2197,7 @@ span.category {
     font-size: 11px;
     line-height: 11px;
     color: #fff;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #article h1 {
     margin-bottom: 20px;
@@ -2208,7 +2208,7 @@ span.category {
     margin: 0 0 0 0;
     font-size: 20px;
     line-height: 22px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #article .adv-video { max-width: 380px }
 #article .adv-video img {
@@ -2297,7 +2297,7 @@ span.category {
     width: 100%;
     font-size: 16px;
     line-height: 24px;
-    font-family: Georgia, serif;
+    font-family: 'Droid Serif', serif;
     color: #363636;
 }
 #article_container header {
@@ -2387,7 +2387,7 @@ span.category {
     padding: 15px 20px 0 20px;
     font-size: 22px;
     text-align: right;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #fff;
     background: #000;
     opacity: 0.80;
@@ -2448,7 +2448,7 @@ span.category {
 .adv-video_smrt .video-data .title {
     display: block;
     margin-bottom: 5px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-size: 13pt;
     line-height: 1.1em;
 }
@@ -2485,7 +2485,7 @@ span.category {
 .entry_widget_sp_secondary h3 a {
     margin: 0;
     font-size: 18px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     color: #a2a2a2;
 }
 #gallery_preview span,
@@ -2520,7 +2520,7 @@ span.category {
     margin: 5px 0 10px 0;
 }
 .PullQuote {
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-size: 28px;
     line-height: 34px;
     color: #363636;
@@ -2685,7 +2685,7 @@ span.category {
     padding-left: 33px;
     font-size: 18px;
     line-height: 20px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     text-transform: uppercase;
     color: #b0b0b0;
     background: url('/static/common/img/bg-reaction.png') no-repeat left top;
@@ -2695,7 +2695,7 @@ span.category {
     padding: 10px;
     font-size: 25px;
     line-height: 27px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     text-indent: -10px;
     border-bottom: 1px solid #dadada;
     color: #666;
@@ -2711,7 +2711,7 @@ span.category {
     margin: 5px 0 10px 0;
     padding: 3px 8px 0 8px;
     font-size: 16px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     text-transform: uppercase;
     color: #fff;
     -moz-box-shadow: 0 2px 2px rgba(0,0,0,0.6);
@@ -2725,7 +2725,7 @@ span.category {
     margin: 0 0 10px 0;
     padding: 7px 10px;
     font-size: 22px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     border-top: 3px solid #333;
     border-bottom: 1px solid #333;
     background: #fff2a8;
@@ -2767,7 +2767,7 @@ span.category {
     padding: 10px 0 15px 0;
     font-size: 16px;
     line-height: 20px;
-    font-family: Georgia, serif;
+    font-family: 'Droid Serif', serif;
     border-bottom: 1px solid #aaa;
 }
 .Comment.last {
@@ -2813,7 +2813,7 @@ span.category {
 #comment_box h6 {
     margin: 5px 0 10px 85px;
     font-size: 16px;
-    font-family: Georgia, serif;
+    font-family: 'Droid Serif', serif;
     font-weight: normal;
 }
 #comment_box a.button {
@@ -2884,7 +2884,7 @@ span.category {
     padding: 5px 10px 5px;
     font-size: 20px;
     line-height: normal;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     color: #fff;
     border: none;
     -webkit-border-radius: 2px;
@@ -2920,7 +2920,7 @@ span.category {
     padding: 5px 10px 5px;
     font-size: 20px;
     line-height: normal;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     border: none;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -3060,7 +3060,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 10px 5px 5px 5px;
     font-size: 18px;
     line-height: 20px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     overflow: hidden;
 }
 .BestOfColumn+.BestOfColumn { border-left: 1px solid #333 }
@@ -3109,7 +3109,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 10px 5px 5px 5px;
     font-size: 18px;
     line-height: 22px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
 }
 .MoreInFeature img {
     float: left;
@@ -3251,7 +3251,7 @@ input[type=textarea]:focus { background-image: none }
     margin-left: 5px;
     padding-left: 5px;
     border-left: 1px solid;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
 }
 #content aside section ul.highlight_toplinks li:first-of-type {
     margin-left: 0;
@@ -3271,7 +3271,7 @@ input[type=textarea]:focus { background-image: none }
 }
 #content aside section .scoreboard table b {
     font-size: 14px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #363636;
 }
 #content aside section .scoreboard .promo-box td { border: 1px solid #d7d7c3 }
@@ -3301,7 +3301,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 5px 0 15px;
     font-size: 18px;
     line-height: 22px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     border-bottom: 1px solid #aba497;
     overflow: hidden;
 }
@@ -3377,7 +3377,7 @@ input[type=textarea]:focus { background-image: none }
     float: left;
     margin: 0 0 5px 0;
     font-size: 18px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     text-transform: uppercase;
     color: #fff;
 }
@@ -3399,7 +3399,7 @@ input[type=textarea]:focus { background-image: none }
     margin: 6px 0;
     padding: 8px 10px 6px;
     font-size: 16px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
@@ -3483,7 +3483,7 @@ input[type=textarea]:focus { background-image: none }
 #content aside section #find-local h2,
 #content aside section #find-local h3,
 #content aside section #find-local h4,
-#content aside section #find-local .fl-ads .fl-specs p { font-family: prelo-slab,serif }
+#content aside section #find-local .fl-ads .fl-specs p { font-family: 'Roboto Slab',serif }
 #content aside section #find-local h2,
 #content aside section #find-local h3 { text-shadow: 1px 0 1px rgba(255,255,255,0.5) }
 #content aside section #find-local h2 {
@@ -3813,7 +3813,7 @@ input[type=textarea]:focus { background-image: none }
 #content aside section.promo-spot .label {
     margin: 0 10px;
     font-size: 28px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: bold;
     border-bottom: 1px solid #BFBFBF;
 }
@@ -3884,7 +3884,7 @@ input[type=textarea]:focus { background-image: none }
     text-align: left;
     font-size: 22px;
     line-height: 18px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     border: none;
     background: url(/static/common/img/arw-comm-center.png) 100% 50% no-repeat;
@@ -3970,7 +3970,7 @@ input[type=textarea]:focus { background-image: none }
     clear: both;
     margin: 10px 10px 20px 0;
     padding: 5px 10px 2px 10px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background-color: #fc6500;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fc6500), to(#de5a02));
     background-image: -webkit-linear-gradient(top, #fc6500, #de5a02);
@@ -4010,7 +4010,7 @@ input[type=textarea]:focus { background-image: none }
     margin: 10px;
     padding: 5px 10px 2px 10px;
     font-size: 18px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     text-transform: uppercase;
     line-height: normal;
     border: none;
@@ -4044,7 +4044,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 7px 0;
     font-size: 18px;
     line-height: 18px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     text-align: center;
 }
 #content aside section.entertainment_listings .Links a { color: #f66300 }
@@ -4061,7 +4061,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 10px 0 0 10px;
     font-size: 20px;
     line-height: 20px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #363636;
     background-color: #fefefd;
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fefefd), to(#eeecdd));
@@ -4104,7 +4104,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 0 9px;
     font-size: 18px;
     line-height: 22px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #f66300;
     border-right: 1px solid #dadada;
 }
@@ -4171,7 +4171,7 @@ input[type=textarea]:focus { background-image: none }
     padding: 0;
     font-size: 18px;
     line-height: 1.1;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     overflow: hidden;
 }
 #content aside section .BlogListingImg {
@@ -4180,7 +4180,7 @@ input[type=textarea]:focus { background-image: none }
 }
 #content aside section .BlogListingImg a {
     float: left;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #content aside section .BlogListingImg img {
     float: left;
@@ -4273,7 +4273,7 @@ input[type=textarea]:focus { background-image: none }
     background-image: -ms-linear-gradient(top, #5091cd, #437eb5);
     background-image: -o-linear-gradient(top, #5091cd, #437eb5);
     filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#5091cd', EndColorStr='#437eb5');
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     color: #fff;
 }
 #content aside section ul.module-tabs a.active {
@@ -4319,7 +4319,7 @@ input[type=textarea]:focus { background-image: none }
     color: white;
     text-align: center;
     vertical-align: middle;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
 }
 #content aside section.most-popular .module-block ul li.hub-metric .heatmap_link {
     float: left;
@@ -4355,7 +4355,7 @@ input[type=textarea]:focus { background-image: none }
     padding-top: 7px;
     font-size: 19px;
     text-align: center;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     background: url('/static/common/img/sprites/sidebar-sprite.png') 0 0 no-repeat;
 }
 #content aside section.most-popular .comment-count a { color: #fff }
@@ -4547,7 +4547,7 @@ select {
     padding: 0;
     vertical-align: middle;
     line-height: 27px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     border: none;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -4683,7 +4683,7 @@ TABLE.shsLinescore { border: 0 }
 #shsToday .shsTable TR:first-child TD TABLE TD:last-child {
     color: #363636;
     font-size: 24px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     line-height: 24px;
 }
 #shsToday .shsTable TR:first-child TD TABLE TR.shsTableSubttlRow TD { color: #9d9d8f }
@@ -4886,7 +4886,7 @@ shsMiniCopyright_schedrslt { display: none }
 }
 .SponsoredLink span {
     font-size: 13px;
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     color: #000;
 }
 #sponsored_links,
@@ -4900,7 +4900,7 @@ shsMiniCopyright_schedrslt { display: none }
 }
 #sponsored_links .title,
 #sidebar_sponsored_links .title {
-    font-family: prelo-slab,sans-serif;
+    font-family: 'Roboto Slab',sans-serif;
     color: #333;
     font-size: 16px;
     padding: 7px 0;
@@ -4970,7 +4970,7 @@ aside.ArticleSidebar .SecSponsorInner { margin-bottom: 20px }
     background-color: black;
     line-height: 38px;
     text-align: center;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     font-size: 35px;
     font-weight: bold;
     color: white;
@@ -4989,13 +4989,13 @@ aside.ArticleSidebar .SecSponsorInner { margin-bottom: 20px }
     text-align: center;
     font-size: 22px;
     color: #fff;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
 }
 #promo_wrapper a.PostButton {
     margin-left: 10px;
     padding: 8px 8px 5px 8px;
     font-size: 18px;
-    font-family: prelo-slab;
+    font-family: 'Roboto Slab';
     border: none;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -5067,7 +5067,7 @@ aside.ArticleSidebar .SecSponsorInner { margin-bottom: 20px }
     margin: 6px 0;
     padding: 8px 10px 6px;
     font-size: 20px;
-    font-family: prelo-slab,serif;
+    font-family: 'Roboto Slab',serif;
     font-weight: normal;
     color: #FFF;
     background-color: #bcab88;
@@ -6044,7 +6044,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
     .river-item:hover .river-social { display: none }
     .BestOfColumn {
         float: left;
-        font-family: prelo-slab,sans-serif;
+        font-family: 'Roboto Slab',sans-serif;
         font-size: 18px;
         line-height: 20px;
         min-height: 150px;
@@ -6348,7 +6348,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
         width: 100%;
     }
     .PullQuote {
-        font-family: prelo-slab,serif;
+        font-family: 'Roboto Slab',serif;
         font-size: 24px;
         line-height: 26px;
         color: #363636;
@@ -6389,7 +6389,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
     .RelatedColumn {
         border-right: none;
         float: left;
-        font-family: prelo-slab,sans-serif;
+        font-family: 'Roboto Slab',sans-serif;
         width: 260px;
         min-height: 0;
         padding: 10px 0;
@@ -6581,7 +6581,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
     }
     #article_container {
         float: left;
-        font-family: Georgia,serif;
+        font-family: 'Droid Serif',serif;
         font-size: 16px;
         line-height: 24px;
     }
@@ -6648,7 +6648,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
     .RiverTop {
         background: url("/static/common/img/shd-small-top.png") repeat-x scroll 0 0 #e9e1d2;
         color: #363636;
-        font-family: prelo-slab,serif;
+        font-family: 'Roboto Slab',serif;
         font-size: 24px;
         margin-bottom: 20px;
     }
@@ -6768,7 +6768,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
         padding: 0 9px;
         text-align: center;
         font-size: 18px;
-        font-family: prelo-slab,sans-serif;
+        font-family: 'Roboto Slab',sans-serif;
         line-height: 28px;
         text-shadow: none;
         color: white;
@@ -6800,7 +6800,7 @@ aside .scoreboard_api .right_rail_scoreboard_links {
     .BestOfColumn {
         border-right: none;
         float: left;
-        font-family: prelo-slab,sans-serif;
+        font-family: 'Roboto Slab',sans-serif;
         font-size: 16px;
         line-height: 18px;
         width: 260px;
@@ -7371,7 +7371,7 @@ html.lt-ie8 .cc-voice-img img { width: 60px }
 .lt-ie9 #news-river header h1 span.hide { display: inline }/*affiliate_v002.css*/
 
 h1, h2, h3, h4, h5 {
-	font-family: prelo-slab;
+	font-family: 'Roboto Slab';
 }
 /* toprail */
 header#adv_header {
